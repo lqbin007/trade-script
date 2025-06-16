@@ -70,5 +70,3 @@ Feel free to improve or translate this README as needed!
 git remote set-url origin https://github.com/lqbin007/trade-script
 
 
-token
-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
