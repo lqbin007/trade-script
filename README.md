@@ -1,3 +1,6 @@
+# trade-script
+记录我的交易，note my trade information
+
 # Nuclear Power Trade Marker (中国核电买卖点标记)
 
 This project provides a Pine Script (TradingView) indicator that marks your buy and sell points for 中国核电 (China National Nuclear Power) on the daily candlestick chart, based on your personal trade records.
