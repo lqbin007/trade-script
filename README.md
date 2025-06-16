@@ -1,10 +1,14 @@
 # trade-script
 记录我的交易，note my trade information
 
-# Nuclear Power Trade Marker (中国核电买卖点标记)
+# Nuclear Power Trade Marker
+(中国核电买卖点标记)
 
 This project provides a Pine Script (TradingView) indicator that marks your buy and sell points for 中国核电 (China National Nuclear Power) on the daily candlestick chart, based on your personal trade records.
+开始是对自己的资金投资的数据整理和分析，从去年2024年11月开始一直在交易中，但是学习的知识还是不够，无法做到盈利；
+现在看了交易的记录，发现几点缺点：
 
+ - 还是交易的策略问题，基本都是情绪主导没有计划；从冲动进场运气好可以盈利，但是慢慢地就还回市场。中国核电就是最好的例子，开始入场就用了10w左右的大仓位（五分之一）买入，第二天到0.2元的盈利就匆忙减仓，后来一直拉起来到10元左右，盈利到近0.5元；可惜没有
 ## Features
 
 - Marks buy and sell points on the daily chart using your trade data from `核电.csv`
