@@ -64,11 +64,11 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/你的用户名/你的仓库名.git
+git remote add origin https://github.com/lqbin007/trade-script
 git push -u origin main
 Feel free to improve or translate this README as needed! 
 git remote set-url origin https://github.com/lqbin007/trade-script
 
 
-toke
+token
 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
